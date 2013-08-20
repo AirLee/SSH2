@@ -1,0 +1,1 @@
+struts2.0.14中的spring-core-2.0.5.jar、spring-context-2.0.5.jar、spring-beans-2.0.5.jar、spring-web-2.0.5.jar与spring2.5.6中的spring.jar会冲突，应把spring-core-2.0.5.jar、spring-context-2.0.5.jar、spring-beans-2.0.5.jar、spring-web-2.0.5.jar删除。
